@@ -1,0 +1,41 @@
+body {
+
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+
+}
+
+.main-content {
+
+    width: 576px;
+    height: fit-content;
+    border: solid white 30px;
+    border-radius: 25px;
+    display: flexbox;
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0px 10px 30px hsl(220, 15%, 55%);
+    
+
+
+}
+
+.main-content p {
+
+    color: hsl(220, 15%, 55%);
+    font-size: 1.5em;
+}
+
+img {
+
+    border-radius: 15px;
+}
+
